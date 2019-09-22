@@ -16,3 +16,4 @@
 
 
 ***Razan AL-NANAAH***
+link: [My Portfolio](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
