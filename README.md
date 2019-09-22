@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to growth middset Pages
 
-You can use the [editor on GitHub](https://github.com/Razanalnanaah/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+***You can use the [growth mindset](https://github.com/Razanalnanaah/learning-journal/edit/master/README.md) to The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Whenever you commit to this repository, growth mindest Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. ***how to keep yourself in a growth mindset
+1.Acknowledge and embrace imperfections
+2.View challenges as opportunities
+3.Try different learning tactics***
+
 
 ### Markdown
 
