@@ -10,4 +10,4 @@ Similarly, to make phrases bold in Markdown, you can surround words with two ast
 
 In the box below, make the word "will" bold.
 
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjj5f-vuuTkAhURdxoKHeTtAqAQjRx6BAgBEAQ&url=https%3A%2F%2Fscotch.io%2Fbar-talk%2Fa-guide-to-markdown-for-simpler-web-writing&psig=AOvVaw1xw7cmep6cNSJ7gSCJVjD-&ust=1569242414897551)
+![](https://scotch-res.cloudinary.com/image/upload/w_1050,q_auto:good,f_auto/media/https://scotch.io/wp-content/uploads/2015/02/guide-to-markdown-web-writing.png)
