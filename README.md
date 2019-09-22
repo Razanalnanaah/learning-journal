@@ -1,6 +1,6 @@
 ## Welcome to growth middset Pages
 
-***You can use the [growth mindset] to The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.***
+***You can use the [growth mindset] to The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.**
 
 
 
