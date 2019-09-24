@@ -15,6 +15,14 @@ file one markdown *[markdown](https://razanalnanaah.github.io/learning-journal/L
 2.View challenges as opportunities
 3.Try different learning tactics***
 
+| files        | name          |  link |
+| ------------- |:-------------:| -----:|
+| file one      | learningmarkdown| * [markdown](https://daniaalrababa9.github.io/Learning-Journal-/markdown)|
+| file two      | terminal| * [terminals](https://daniaalrababa9.github.io/Learning-Journal-/terminals)|
+| file three      | git | * [learn-about-git](https://daniaalrababa9.github.io/Learning-Journal-/learn-about-git) |
+| file four      |html| * [git intro](https://daniaalrababa9.github.io/Learning-Journal-/gitintro)|
+| file five      | css| * [html](https://daniaalrababa9.github.io/Learning-Journal-/html)|
+| file six     | js| * [css](https://daniaalrababa9.github.io/Learning-Journal-/css)|
 
 
 
