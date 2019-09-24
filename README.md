@@ -17,12 +17,12 @@ file one markdown *[markdown](https://razanalnanaah.github.io/learning-journal/L
 
 | files        | name          |  link |
 | ------------- |:-------------:| -----:|
-| file one      | learningmarkdown| * [markdown](https://daniaalrababa9.github.io/Learning-Journal-/markdown)|
-| file two      | terminal| * [terminals](https://daniaalrababa9.github.io/Learning-Journal-/terminals)|
-| file three      | git | * [learn-about-git](https://daniaalrababa9.github.io/Learning-Journal-/learn-about-git) |
-| file four      |html| * [git intro](https://daniaalrababa9.github.io/Learning-Journal-/gitintro)|
-| file five      | css| * [html](https://daniaalrababa9.github.io/Learning-Journal-/html)|
-| file six     | js| * [css](https://daniaalrababa9.github.io/Learning-Journal-/css)|
+| file one      | learningmarkdown| * [markdown learning](https://razanalnanaah.github.io/learning-journal/Learning%20Markdown)|
+| file two      | terminal| * [terminal](https://razanalnanaah.github.io/learning-journal/terminal)|
+| file three      | git | * [git](https://razanalnanaah.github.io/learning-journal/Git) |
+| file four      |html| * [html](https://razanalnanaah.github.io/learning-journal/html)|
+| file five      | css| * [css](https://razanalnanaah.github.io/learning-journal/css)|
+| file six     | js| * [js](https://razanalnanaah.github.io/learning-journal/js)|
 
 
 
